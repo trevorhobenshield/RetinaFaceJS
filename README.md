@@ -36,3 +36,6 @@ kps = [
   ]
 ]
 ```
+
+### Graph
+<img src='det_10g.onnx.svg'>
