@@ -1,5 +1,5 @@
 # RetinaFaceJS
-Client-side RetinaFace inference in pure JavaScript
+Client-side RetinaFace inference in vanilla JavaScript
 
 ### Expected Output
 ```js
