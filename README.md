@@ -1,6 +1,9 @@
 # RetinaFaceJS
 Client-side RetinaFace inference in vanilla JavaScript
 
+### Run in Browser
+https://trevorhobenshield.github.io/RetinaFaceJS
+
 ### Expected Output
 ```js
 score = 0.8545975089073181
